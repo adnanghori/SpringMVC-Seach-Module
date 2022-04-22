@@ -1,6 +1,6 @@
 package com.orm.dao.implementation;
 
-import java.io.Serializable;
+
 
 import org.springframework.orm.hibernate5.HibernateTemplate;
 
